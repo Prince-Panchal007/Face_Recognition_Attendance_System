@@ -1,4 +1,0 @@
-2026-10-30 14:58:12 [INFO] facetrack: Starting FaceTrack – Smart Face Recognition Attendance Management System v1.0.0
-2026-10-30 14:58:12 [INFO] facetrack.db: Database ready at D:\Face_Recognition\FaceTrack\data\facetrack.db
-2026-10-30 14:58:13 [INFO] facetrack.detector: Loaded Haar cascade from D:\Face_Recognition\FaceTrack\assets\haarcascades\haarcascade_frontalface_default.xml
-2026-10-30 14:59:59 [INFO] facetrack.ui: Application closed
