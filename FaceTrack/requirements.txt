@@ -1,0 +1,7 @@
+opencv-contrib-python==4.10.0.84
+customtkinter==5.2.2
+Pillow>=10.0.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+reportlab>=4.0.0
+pandas>=2.0.0
